@@ -1,0 +1,37 @@
+# Fichiers compilés et générés
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Fichiers de logs
+*.log
+
+# Fichiers de configuration IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+*~
