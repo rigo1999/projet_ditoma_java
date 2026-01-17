@@ -1,6 +1,11 @@
 # PowerCity Manager 
 
 **Jeu de gestion énergétique de type tycoon - Projet INF2328**
+## Auteurs
+
+- **KEGDIGOMA Ditoma** — Responsable technique : conception et création de la structure du projet, développement modulaire, écriture du script de lancement (`run.bat`), rédaction des instructions d'installation et définition de l'architecture MVP, versionnage.
+- **DJAGNIKPO Iletou** — Responsable produit & documentation : analyse fonctionnelle et explicitation du projet, rédaction du `README.md`, scénarisation pédagogique et coordination des éléments du test .
+
 
 ## Description
 
@@ -163,10 +168,6 @@ NeoVille est une ville écologique expérimentale où vous avez été nommé dir
 
 Le maire surveille de près votre performance et évalue régulièrement la satisfaction de la population. Attention : un mandat mal géré se termine rapidement dans NeoVille !
 
-## Auteurs
-
-- **KEGDIGOMA Ditoma** — Responsable technique : conception et création de la structure du projet, développement modulaire, écriture du script de lancement (`run.bat`), rédaction des instructions d'installation et définition de l'architecture MVP, versionnage.
-- **DJAGNIKPO Iletou** — Responsable produit & documentation : analyse fonctionnelle et explicitation du projet, rédaction du `README.md`, scénarisation pédagogique et coordination des éléments du test .
 
 ## Licence
 
